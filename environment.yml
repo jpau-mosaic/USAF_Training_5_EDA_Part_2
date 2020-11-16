@@ -6,4 +6,3 @@ dependencies:
   - matplotlib
   - plotly
   - numpy
-  - calendar
